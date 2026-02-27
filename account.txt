@@ -1,0 +1,3 @@
+Tài khoản admin:
+tên đăng nhập:			pass: 
+		admin			admin@123
